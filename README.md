@@ -46,7 +46,7 @@ The app hosts **novel-based units** including lessons, PowerPoints, and videos, 
 ## 📊 Bug Report & Design References
 - 📄 **Bug Report (Google Sheet):** [View Report](https://docs.google.com/spreadsheets/d/1ovpwm7ZRdg2rUhDwF6Qaei5e3hdDaR7kknwayQOOp-I/edit?usp=sharing)  
 - 🎨 **Figma Design:** [View Design](https://www.figma.com/design/4rJN8enXZV1rurtFDzsYL5/scott_meaders---WpDesign7-----FO4276B5956C8?node-id=1-6&p=f&t=ly0oRgMaFeIFCivc-0)  
-- 📱 **APK File:** *(Attach `[app-release.apk](https://github.com/abdurtutul/scott_meaders-functional-testing/blob/main/app-release.apk) ` in the repository)* 
+- 📱 **APK File:** *[app-release.apk](https://github.com/abdurtutul/scott_meaders-functional-testing/blob/main/app-release.apk)* 
 
 ---
 
